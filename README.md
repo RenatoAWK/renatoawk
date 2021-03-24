@@ -1,6 +1,6 @@
 <div align="center">
-<h3>Me chamo <b>Renato</b></h3>
-<h3>Tecnologias e ferramentas que mais uso: </h3>
+<h3>Meu nome é <b>Renato</b></h3>
+<h3>Coisas bacanas que uso diariamente</h3>
 <br/>
 <a href="http://laravel.com/" target="_blank"><img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" height="30px"></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://vuejs.org/images/logo.png" alt="Vue" height="30px"></a>
@@ -25,5 +25,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/renatoawk?style=plastic)
 ![](https://visitor-badge.glitch.me/badge?page_id=renatoawk.renatoawk)
+
+<img src="https://media1.popsugar-assets.com/files/thumbor/Tx3AWbL1ndQPDE26xUHlJ1pbI2M/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/09/12/914/n/1922283/addurlGWIbJG/i/Start-Off-Strong-Office-Pals.gif" height="100px">
  
 </div>
