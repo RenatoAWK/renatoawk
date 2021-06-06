@@ -1,4 +1,4 @@
-<h1 align="center">Meu nome é Renato</h1>
+<h1 align="center">Olá 👋, me chamo Renato</h1>
 <h3 align="center">Sou apenas um dev anônimo que curte programar, transformar ideias em coisas reais, resolver problemas e fazer isso da melhor maneira que posso. 😆</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renatoawk" alt="renatoawk" /></a> </p>
