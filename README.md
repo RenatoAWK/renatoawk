@@ -4,9 +4,9 @@
 
 - 👨‍💻 Trabalho com VueJs, ReactJs e NextJs, mas sempre tirando casquinha de outras stacks.
 
-- 📝 Tentando transpor anotações e outras infos para esse "blog" [blog.renatoawk.fun](blog.renatoawk.fun).
+- 📝 Tentando transpor anotações e outras infos para esse "blog" <a href="https://blog.renatoawk.fun">blog.renatoawk.fun</a>.
 
-- 📫 Como me encontrar: [Email](renatoawk@gmail.com) [Telegram](t.me/Renatoawk).
+- 📫 Como me encontrar: <a href="mailto:renatoawk@gmail.com">Email</a> <a href="https://t.me/Renatoawk">Telegram</a>
 
 1. 🎸 Fato aleatório: música é meu principal hobby, mas ultimamente tô tocando mal demais..
 
